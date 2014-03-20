@@ -1,0 +1,4 @@
+c:\temp\jsStatus\jsStatus\bin\jsStatus.dll
+c:\temp\jsStatus\jsStatus\bin\jsStatus.pdb
+c:\temp\jsStatus\jsStatus\obj\Debug\jsStatus.dll
+c:\temp\jsStatus\jsStatus\obj\Debug\jsStatus.pdb
